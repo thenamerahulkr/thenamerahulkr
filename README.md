@@ -56,7 +56,7 @@
   <a href="https://discord.com/users/thenamerahulkr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
-  <a href="mailto:yourname@gmail.com" target="_blank">
+  <a href="mailto:thenamerahulkr@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/thenamerahulkr" target="_blank">
@@ -71,7 +71,7 @@
   <a href="https://twitter.com/thenamerahulkr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
-  <a href="https://signal.org/thenamerahulkr" target="_blank">
+  <a href="signal://send?phone=919128182004" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="signal logo" />
   </a>
   <a href="https://slack.com/thenamerahulkr" target="_blank">
