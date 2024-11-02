@@ -77,7 +77,7 @@
   <a href="https://slack.com/thenamerahulkr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo" />
   </a>
-  <a href="https://wa.me/919128182004" target="_blank">
+  <a href="https://wa.me/918404844101" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
   </a>
 </div>
