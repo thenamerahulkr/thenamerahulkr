@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am Rahul Kumar and i am a Computer Science Student at Vellore institute of technology , Bhopal🧑‍🎓</h2>
+<h2 align="left">Hi 👋! I am Rahul Kumar and i am a Computer Science Student at Vellore institute of technology🧑‍🎓</h2>
 
 ###
 
