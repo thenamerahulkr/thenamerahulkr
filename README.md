@@ -11,6 +11,8 @@
     <a href="https://www.linkedin.com/in/thenamerahulkr/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://thenamerahulkr.live/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="https://leetcode.com/u/thenamerahulkr/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://www.instagram.com/alongwithrahul/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://x.com/thenamerahulkr"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=thenamerahulkr&label=Profile%20Views&color=00b0ff&style=flat-square" alt="Profile views" />
@@ -22,7 +24,8 @@
 I am a Computer Science undergraduate at **Vellore Institute of Technology** and a **Software Development Engineer Intern at BigBasket**. I enjoy engineering backend systems, designing reliable APIs, and shipping full-stack products that solve practical problems.
 
 - Working on scalable backend services and transaction-heavy systems at **BigBasket**
-- Experienced with **Node.js, Express.js, MongoDB, PostgreSQL, Docker, AWS, and CI/CD**
+- Experienced with **Node.js, TypeScript, Express.js, MongoDB, PostgreSQL, Docker, AWS, and CI/CD**
+- Also work across **Flutter mobile development**, shipping production UI and debugging complex layout and state issues
 - Built products across event management, payments, authentication, QR workflows, and document generation
 - Solved **500+ DSA problems** across LeetCode and Codeforces
 - B.Tech CSE, Class of 2026, with a **CGPA of 8.74**
@@ -43,8 +46,9 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology** and
 ### Software Development Engineer Intern | BigBasket
 `Jan 2026 - Present` | Bengaluru, India
 
-- Engineering and scaling REST APIs with **Node.js, JavaScript, and Express.js** for the Free Cash V2 wallet-credit redemption system
+- Engineering and scaling REST APIs with **Node.js, TypeScript, and Express.js** for the Free Cash V2 wallet-credit redemption system, letting customers redeem company-issued cash toward product purchases
 - Designing and optimizing **MongoDB and PostgreSQL** schemas for high-volume transaction processing
+- Working across the **Flutter** mobile stack — debugging production UI issues, converting native layouts to Flutter, and handling API failure states with field-level sanitization
 - Containerizing microservices with **Docker** and improving delivery through **GitHub Actions CI/CD**
 - Deploying and monitoring backend services on **AWS EC2 and S3**, while collaborating across product and mobile teams
 
@@ -83,14 +87,15 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology** and
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
   <h3>Frontend & Backend</h3>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=json&logoColor=white" alt="REST APIs" />
+  <!-- <img src="https://img.shields.io/badge/REST%20APIs-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="REST APIs" /> -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
@@ -100,13 +105,10 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology** and
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 
   <h3>Cloud & DevOps</h3>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 
@@ -116,7 +118,6 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology** and
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
@@ -136,12 +137,12 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology** and
       Scalable REST APIs<br />Transaction-heavy systems<br />Reliable API contracts
     </td>
     <td width="33%" align="center">
-      <strong>Data & Infrastructure</strong><br /><br />
-      MongoDB and PostgreSQL<br />Docker and Kubernetes<br />AWS EC2 and S3
+      <strong>Mobile & Product</strong><br /><br />
+      Flutter production apps<br />UI/layout debugging<br />API failure handling
     </td>
     <td width="33%" align="center">
-      <strong>Product Delivery</strong><br /><br />
-      CI/CD with GitHub Actions<br />Cross-functional collaboration<br />Production monitoring
+      <strong>Cloud & Delivery</strong><br /><br />
+      Docker containers<br />CI/CD with GitHub Actions<br />AWS EC2 and S3
     </td>
   </tr>
 </table>
@@ -149,8 +150,8 @@ I am a Computer Science undergraduate at **Vellore Institute of Technology** and
 ## Current Focus
 
 ```text
-Scalable REST APIs  |  Data-intensive backend systems  |  Cloud deployments
-System design       |  CI/CD and containers            |  Product engineering
+Scalable REST APIs  |  Data-intensive backend systems  |  Flutter mobile development
+System design       |  CI/CD and containers            |  Building in public
 ```
 
 <div align="center">
