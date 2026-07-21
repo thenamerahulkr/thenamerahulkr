@@ -2,8 +2,8 @@
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00C853,45:00B0FF,100:7C4DFF&text=Rahul%20Kumar&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Full%20Stack&descSize=19&descAlignY=58&animation=fadeIn" alt="Rahul Kumar header" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B0FF&center=true&vCenter=true&width=700&lines=ex-SDE+Intern+at+BigBasket;Building+backend+systems+for+real-world+scale;Turning+ideas+into+reliable+products;500%2B+DSA+problems+solved" alt="Typing introduction" />
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B0FF&center=true&vCenter=true&width=700&lines= ex-SDE+Intern+at+BigBasket;Building+backend+systems+for+real-world+scale;Turning+ideas+into+reliable+products;500%2B+DSA+problems+solved" alt="Typing introduction" />
   </a>
 
   <p>
@@ -21,7 +21,7 @@
 
 ## About Me
 
-I am a Computer Science undergraduate at **Vellore Institute of Technology** and a **Software Development Engineer Intern at BigBasket**. I enjoy engineering backend systems, designing reliable APIs, and shipping full-stack products that solve practical problems.
+I am a Computer Science undergraduate at **Vellore Institute of Technology** and a **Software Development Engineer ex-Intern at BigBasket**. I enjoy engineering backend systems, designing reliable APIs, and shipping full-stack products that solve practical problems.
 
 - Working on scalable backend services and transaction-heavy systems at **BigBasket**
 - Experienced with **Node.js, TypeScript, Express.js, MongoDB, PostgreSQL, Docker, AWS, and CI/CD**
